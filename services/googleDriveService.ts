@@ -3,7 +3,7 @@
 // ✅ Không cần Google Cloud Console, không cần OAuth popup
 
 // ─── ⚙️ CẤU HÌNH — SỬA 2 DÒNG NÀY ────────────────────────────────────────────
-const GAS_URL          = 'https://script.google.com/macros/s/AKfycbyWiyq9PTdxcfTy1Fljo1-yK0c-anRTo7uMBusJVUXKpUOeQilrKVzDvllyhkNsPOzD/exec';
+const GAS_URL          = 'https://script.google.com/macros/s/AKfycbxids-RJ4HJAhLqBeMv9X8zd02vxLhq_6IaSajOBRdMmB7q5DkGyhuppYYizHA0fnPI/exec';
 const GAS_SECRET_TOKEN = 'taodepdf2026secret'; // phải khớp với CONFIG.secretToken trong Code.gs
 // ───────────────────────────────────────────────────────────────────────────────
 
